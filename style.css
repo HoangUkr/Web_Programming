@@ -1,0 +1,122 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  border: 1px solid #555;
+}
+
+li {
+  float: left;
+  text-align: center;
+  border-bottom: 1px solid #555;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+
+li:last-child {
+  border-bottom: none;
+}
+body {
+
+background: url("background.jpg");
+ 
+ background-color: #cccccc;
+ background-repeat: no-repeat;
+   background-size: cover; 
+
+
+}
+#tabl{
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 70%;
+  height: 80%;
+  padding-bottom :30px;
+  margin-top: 2%;
+  margin-bottom:  5%
+
+}
+#sasa{
+  color: black;
+  font-size: 33px;
+  font-style: bold;
+}
+
+#tabl td, #tabl th {
+  border: 1px solid #ddd;
+  padding: 10px;
+
+}
+
+#tabl tr:nth-child(even){background-color: #f2f2f2;}
+
+#tabl tr:hover {background-color: #f2f2f2;}
+
+#tabl th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+body {
+  
+ 
+ background-color: #cccccc;
+ background-repeat: no-repeat;
+   background-size: cover; 
+
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  border: 1px solid #555;
+}
+
+li {
+  float: left;
+  text-align: center;
+  border-bottom: 1px solid #555;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+
+li:last-child {
+  border-bottom: none;
+}
+img{
+  margin-top: 2%;
+  margin-right: 2%
+ 
+}
+
+
+.
